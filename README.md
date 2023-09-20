@@ -78,7 +78,7 @@ Hansung University BoogiNotice Team Engineering Contest
 
 ## ⚙ 구조도
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90829718/241696820-1fe716a9-c40a-482f-9f3d-1635bcfbd2df.jpg" width="1500" />
+  <img src="" width="1500" />
 </p>
 <br/>
 <br/>
@@ -88,7 +88,7 @@ Hansung University BoogiNotice Team Engineering Contest
 
 ## 📱 UX
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90829718/243067198-352d0ee6-1f09-4fa6-82ec-7bd5b88b953f.jpg" width="1500" />
+  <img src="" width="1500" />
 </p>
 <br/>
 <br/>
@@ -99,10 +99,10 @@ Hansung University BoogiNotice Team Engineering Contest
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/90829718?s=400&u=90d56923e2706f34c55a65af5a57da741856d97f&v=4"width="100px;" alt=""/><br /><sub><b> 팀장 : 김택신 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kyungmin1221"><img src="https://avatars.githubusercontent.com/u/105621255?v=4" width="100px;" alt=""/><br /><sub><b> 팀원  : 권상민 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/hyunpjh"><img src="https://avatars.githubusercontent.com/u/116989813?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 이기혁 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/cyujin"><img src="https://avatars.githubusercontent.com/u/113533845?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 조나단 </b></sub></a><br /></td>
+      <td align="center"><img src=""width="100px;" alt=""/><br /><sub><b> 팀장 : 김택신 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 팀원  : 권상민 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 팀원 : 이기혁 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 팀원 : 조나단 </b></sub></a><br /></td>
       </tr>
   </tbody>
 </table>
