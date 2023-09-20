@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:text="           "
+        android:autofillHints="emailAddress"
+        />
+
+    <TextView
+        android:layout_marginTop="60dp"
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="한성대 이메일 알림 동의"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <CheckBox
+        android:id="@+id/hasungcheck"
+        android:layout_width="170dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+        android:text="한성공지 이메일 알림" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="컴공 이메일 알림 동의"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <CheckBox
+        android:id="@+id/computercheck"
+        android:layout_width="170dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+
+        android:text="컴공 공지 이메일 알림"/>
+    <TextView
+        android:id="@+id/discode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="디스코드로 알림받아보기"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/discodebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="디스코드 접속"
+        />
+
+
+
+</LinearLayout>
