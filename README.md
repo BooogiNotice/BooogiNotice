@@ -15,7 +15,7 @@ Hansung University BoogiNotice Team Engineering Contest
 1. [**어플 소개**](#boogi1)
 1. [**기대 효과**](#boogi2)
 1. [**구성 요소**](#boogi3)
-1. [**기술 스택**](#boogi14)
+1. [**기술 스택**](#boogi4)
 1. [**구조도**](#boogi5)
 1. [**UX**](#boogi6)
 1. [**Team BooGiNotice**](#Team)
