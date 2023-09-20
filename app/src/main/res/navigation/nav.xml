@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/hansung">
+
+    <fragment
+        android:id="@+id/comgong"
+        android:name="com.example.boogie_notice.Comgong"
+        android:label="fragment_comgong"
+        tools:layout="@layout/fragment_comgong" >
+        <action
+            android:id="@+id/action_comgong_to_hansung"
+            app:destination="@id/hansung" />
+        <action
+            android:id="@+id/action_comgong_self"
+            app:destination="@id/comgong" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/hansung"
+        android:name="com.example.boogie_notice.Hansung"
+        android:label="fragment_hansung"
+        tools:layout="@layout/fragment_hansung" >
+        <action
+            android:id="@+id/action_hansung_to_comgong"
+            app:destination="@id/comgong" />
+        <action
+            android:id="@+id/action_hansung_self"
+            app:destination="@id/hansung" />
+
+    </fragment>
+
+
+</navigation>

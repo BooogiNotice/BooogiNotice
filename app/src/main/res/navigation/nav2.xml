@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav2"
+    app:startDestination="@id/bookmarks">
+
+
+    <fragment
+        android:id="@+id/bookmarks"
+        android:name="com.example.boogie_notice.Bookmarks"
+        android:label="Bookmarks" >
+        <action
+            android:id="@+id/action_bookmarks_to_settings2"
+            app:destination="@id/settings2" />
+        <action
+            android:id="@+id/action_bookmarks_self"
+            app:destination="@id/bookmarks" />
+    </fragment>
+    <fragment
+        android:id="@+id/settings2"
+        android:name="com.example.boogie_notice.settings"
+        android:label="settings" >
+        <action
+            android:id="@+id/action_settings2_to_bookmarks"
+            app:destination="@id/bookmarks" />
+        <action
+            android:id="@+id/action_settings2_self"
+            app:destination="@id/settings2" />
+    </fragment>
+</navigation>
