@@ -78,7 +78,7 @@ Hansung University BoogiNotice Team Engineering Contest
 
 ## ⚙ 구조도
 <p align="center">
-  <img src="" width="1500" />
+  <img src="/Users/hansung/Desktop/KakaoTalk_Photo_2023-09-23-00-14-32.png" width="1500" />
 </p>
 <br/>
 <br/>
