@@ -3,6 +3,7 @@ Hansung University BoogiNotice Team Engineering Contest
 <div align="center">
   <h1>BooGiNotice</h1>
 <p align="center">
+<img width="50%" src="https://github.com/BooogiNotice/BooogiNotice/assets/115782138/2ed7d54e-5ff9-4eda-b73c-aa1fb1b7830c"/>
   
 </p>
 </div>
