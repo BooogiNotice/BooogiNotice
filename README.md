@@ -3,7 +3,8 @@ Hansung University BoogiNotice Team Engineering Contest
 <div align="center">
   <h1>BooGiNotice</h1>
 <p align="center">
-  <img src="" width="150" />
+  ![KakaoTalk_Photo_2023-09-23-00-32-16](https://github.com/BooogiNotice/BooogiNotice/assets/115782138/d3d6f7ea-6cd1-4357-bb23-6336640fed91)
+
 </p>
 </div>
 
