@@ -57,8 +57,7 @@ Hansung University BoogiNotice Team Engineering Contest
 | <div align="center"/>🔗[**클라이언트(client)**]()|- Firebase 유저 관리<br/>- Android WebView 를 통한 UI <br/>- 공지사항 즐겨찾기 |
 
 
-<br/>
-<br/>
+
 
 
 
