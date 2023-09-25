@@ -67,6 +67,7 @@ Hansung University BoogiNotice Team Engineering Contest
 
 ## 🛠 기술 스택
 <img src="https://img.shields.io/badge/#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src ="https://github.com/BooogiNotice/BooogiNotice/assets/115782138/6f56acd3-402b-48fe-92c8-c83709759e87">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> 
 
