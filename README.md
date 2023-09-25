@@ -53,10 +53,9 @@ Hansung University BoogiNotice Team Engineering Contest
 ## 📌 구성 요소
 | <div align="center"/>기능                      | <div align="center"/>내용                                                  |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
-| <div align="center"/>🔗[**서버**]()| - Python <br/>&nbsp;&nbsp;&nbsp;&nbsp;-SMTP <br/>&nbsp;&nbsp;&nbsp;&nbsp;- <br/>- <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+| <div align="center"/>🔗[**서버**]()| - Python <br/>&nbsp;&nbsp;&nbsp;&nbsp;-SMTP 
 | <div align="center"/>🔗[**클라이언트(client)**]()|- Firebase 유저 관리<br/>- Android WebView 를 통한 UI <br/>- 공지사항 즐겨찾기 |
-| <div align="center"/>🔗[****]()|- Naver Direction API<br/>- 유저에게 경로 전송
-| <div align="center"/>🔗[**Raspberry PI**]()|- 
+
 
 <br/>
 <br/>
