@@ -76,7 +76,7 @@ class Notification : Service() {
 
         // 백그라운드 서비스가 시작될 때 실행할 작업을 수행합니다.
         // 데이터베이스에서 데이터를 비동기적으로 가져옵니다.
-        startForeground(1,createNotification("","https://www.naver.com/","").build())
+        startForeground(1,createNotification("","","").build())
 
 
         fetchDataFromFirebase()

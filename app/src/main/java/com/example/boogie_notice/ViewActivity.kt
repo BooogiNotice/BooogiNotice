@@ -44,7 +44,6 @@ class ViewActivity : AppCompatActivity(){
         cookieManager.setAcceptCookie(true)
 
         val URL = intent.getStringExtra("URL").toString()
-        val notiURL = intent.getStringExtra("notiURL")
 
         if (URL!=null) {
             Log.d("Url 제대로 받음 1 : ", URL)
